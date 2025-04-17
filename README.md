@@ -51,7 +51,8 @@ A **scramjet** is a type of airbreathing jet engine designed to operate at **hyp
 
 ## 🖼️ Diagram
 
-![Scramjet Diagram](scramjet-diagram.png)
+![Scramjet Diagram](Pics/scramjet-diagram.png)
+
 
 ---
 
